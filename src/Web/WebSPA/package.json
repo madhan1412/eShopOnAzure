@@ -77,7 +77,7 @@
     "copy-webpack-plugin": "4.0.1",
     "css": "2.2.1",
     "css-loader": "0.25.0",
-    "es6-promise": "3.2.1",
+    "es6-promise": "4.2.8",
     "es6-promise-loader": "1.0.2",
     "exports-loader": "0.6.3",
     "extendify": "1.0.0",
